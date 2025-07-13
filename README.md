@@ -40,13 +40,13 @@ The Arduino sketch (`IOT.ino`) reads sensor data, applies thresholds, and contro
 ## Demo
 
 
-[![Watch the demo](https://drive.google.com/file/d/16FGrRylNpr_pgwCKmFDkWVvHP1f1Q8Ho/view?usp=sharing)
+(https://drive.google.com/file/d/16FGrRylNpr_pgwCKmFDkWVvHP1f1Q8Ho/view?usp=sharing)
 
 ---
 
 
-## 🙌 Authors
+## Authors
 
 - **Nidhukrishna** – Developer & Documenter  
-- [Your teammates here, if any]
+
 
